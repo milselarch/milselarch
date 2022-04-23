@@ -1,4 +1,4 @@
-👯 Cool stuff done in other user's repos:
+👯 Cool stuff done in other repos:
 1. [Towers of hanoi on a FPGA state machine](https://github.com/hithfaernith/compstruct1d)  
 Term 4 50.002 1D project written using the lucid VHDL, and using an LED matrix as our display output
 3. [Analysing COVID cases to hospitalisations ratio](https://github.com/treemanw1/DDW2D)  
