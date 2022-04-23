@@ -1,4 +1,8 @@
-### Hi there 👋
+👯 Cool stuff done in other user's repos:
+1. [Towers of hanoi on a FPGA state machine](https://github.com/hithfaernith/compstruct1d)  
+Term 4 50.002 1D project written using the lucid VHDL, and using an LED matrix as our display output
+3. [Analysing COVID cases to hospitalisations ratio](https://github.com/treemanw1/DDW2D)  
+Term 3 10.020 1D project to predict COVID-related statistics from scratch without using any ML libraries
 
 <!--
 **milselarch/milselarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
