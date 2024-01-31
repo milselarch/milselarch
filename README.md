@@ -1,6 +1,7 @@
 👯 Cool stuff done in other repos:
 1. [Lip reading with phonemes amd transformers](https://huggingface.co/SilentSpeak/torchnet/tree/phonemes)  
-Term 7 50.035 1D computer vision project to extend the LipNet lip reading neural network architecture using   phonemes and sequence-to-sequence transformers
+Term 7 50.035 1D computer vision project to extend the LipNet lip reading neural network architecture using  
+phonemes and sequence-to-sequence transformers
 2. [Towers of hanoi on a FPGA state machine](https://github.com/hithfaernith/compstruct1d)  
 Term 4 50.002 1D project game written using the lucid VHDL, with an LED matrix as our display output
 3. [Analysing COVID cases to hospitalisations ratio](https://github.com/treemanw1/DDW2D)  
