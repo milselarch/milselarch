@@ -3,7 +3,9 @@
 Term 3 10.020 1D project to predict COVID-related statistics from scratch without using any ML libraries
 2. [Towers of hanoi on a FPGA state machine](https://github.com/hithfaernith/compstruct1d)  
 Term 4 50.002 1D project game written using the lucid VHDL, with an LED matrix as our display output
-3. [SilentSpeak: Lip reading with phonemes and transformers](https://huggingface.co/SilentSpeak/torchnet/tree/phonemes)  
+3. [Murder Mansion: a 3D horror puzzle game](https://github.com/50033-game-design-and-development/50033-final-project-git-gud-games)  
+Term 7 50.033 single-player puzzle game with a mystery/horror-themed escape room setting 
+5. [SilentSpeak: Lip reading with phonemes and transformers](https://huggingface.co/SilentSpeak/torchnet/tree/phonemes)  
 Term 7 50.035 1D computer vision project using PyTorch to extend the LipNet lip reading neural network architecture using phonemes and sequence-to-sequence transformers
 
 <!--
